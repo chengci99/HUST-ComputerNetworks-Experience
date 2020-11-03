@@ -1,0 +1,6 @@
+E:\comupter_network_EXP\EXP2\StopWait\Debug\StopWait.exe
+E:\comupter_network_EXP\EXP2\StopWait\Debug\StopWait.pdb
+E:\comupter_network_EXP\EXP2_selfmade\StopWait\Debug\EXP2_selfmade.exe
+E:\comupter_network_EXP\EXP2_selfmade\StopWait\Debug\EXP2_selfmade.pdb
+E:\comupter_network_EXP\EXP2_GBN\StopWait\Debug\EXP2_GBN.exe
+E:\comupter_network_EXP\EXP2_GBN\StopWait\Debug\EXP2_GBN.pdb

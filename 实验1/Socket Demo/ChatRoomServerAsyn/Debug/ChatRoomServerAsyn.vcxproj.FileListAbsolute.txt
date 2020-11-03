@@ -1,0 +1,2 @@
+E:\作业\大三\计算机通信与网络\实验\实验1\Socket Demo\ChatRoomServerAsyn\Debug\ChatRoomServerAsyn.exe
+E:\作业\大三\计算机通信与网络\实验\实验1\Socket Demo\ChatRoomServerAsyn\Debug\ChatRoomServerAsyn.pdb

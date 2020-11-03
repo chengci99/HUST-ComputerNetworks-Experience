@@ -1,0 +1,3 @@
+﻿D:\VisualStdioIDE\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(36,5): warning MSB4211: 正在首次将属性“IntermediateOutputPath”设置为某个值，但已在“D:\VisualStdioIDE\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)”处使用了该属性。
+D:\VisualStdioIDE\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(337,5): warning MSB4211: 正在首次将属性“CleanFile”设置为某个值，但已在“D:\VisualStdioIDE\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)”处使用了该属性。
+D:\VisualStdioIDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(429,5): error MSB8041: 此项目需要 MFC 库。从 Visual Studio 安装程序(单个组件选项卡)为正在使用的任何工具集和体系结构安装它们。

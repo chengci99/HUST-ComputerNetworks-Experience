@@ -1,0 +1,17 @@
+﻿D:\VisualStdioIDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(EXP2_selfmade.vcxproj, StopWait.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  LINK : 没有找到 E:\comupter_network_EXP\EXP2_TCP\StopWait\Debug\EXP2_TCP.exe 或上一个增量链接没有生成它；正在执行完全链接
+stdafx.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+netsimlib.lib(DataStructure.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(DataStructure.obj)”或在“E:\comupter_network_EXP\EXP2_TCP\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(FileAppMessageFeeder.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(FileAppMessageFeeder.obj)”或在“E:\comupter_network_EXP\EXP2_TCP\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(FileAppMessageWriter.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(FileAppMessageWriter.obj)”或在“E:\comupter_network_EXP\EXP2_TCP\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(NetworkService.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(NetworkService.obj)”或在“E:\comupter_network_EXP\EXP2_TCP\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(NetworkServiceConfiguration.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(NetworkServiceConfiguration.obj)”或在“E:\comupter_network_EXP\EXP2_TCP\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(NetworkServiceSimulator.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(NetworkServiceSimulator.obj)”或在“E:\comupter_network_EXP\EXP2_TCP\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(RandomEvent.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(RandomEvent.obj)”或在“E:\comupter_network_EXP\EXP2_TCP\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(RandomEventList.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(RandomEventList.obj)”或在“E:\comupter_network_EXP\EXP2_TCP\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(RdtReceiver.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(RdtReceiver.obj)”或在“E:\comupter_network_EXP\EXP2_TCP\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(RdtSender.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(RdtSender.obj)”或在“E:\comupter_network_EXP\EXP2_TCP\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(stdafx.obj)”或在“E:\comupter_network_EXP\EXP2_TCP\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(Tool.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(Tool.obj)”或在“E:\comupter_network_EXP\EXP2_TCP\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+netsimlib.lib(Utils.obj) : warning LNK4099: 未找到 PDB“netsimlib.pdb”(使用“netsimlib.lib(Utils.obj)”或在“E:\comupter_network_EXP\EXP2_TCP\StopWait\Debug\netsimlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  StopWait.vcxproj -> E:\comupter_network_EXP\EXP2_TCP\StopWait\Debug\EXP2_TCP.exe
